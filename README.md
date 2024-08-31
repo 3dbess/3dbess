@@ -25,7 +25,7 @@
 
 ###
 
-<h5 align="center">Computer Science Junior | Frontend Development | 3D Graphics | Data Visualization</h5>
+<h5 align="center">Computer Science Senior | Product Development | Bioinformatics | Data Science</h5>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">🎓 Currently in my third year taking up computer science at the University of San Carlos.<br>🎮 Book-lover and gamer in my free time.<br>🔍 Always looking for the next creative project.</p>
+<p align="left">🎓 Currently in my fourth year taking up computer science at the University of San Carlos.<br>🎮 Book-lover and gamer in my free time.<br>🔍 Always looking for the next creative project.</p>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">🧐  Learning different things, but currently focusing on Three.js and WebGL.<br>🔭 Looking into Data Visualization for Machine Learning.<br>👾 Dipping toes into Game development.<br>🤝 Aiming to contribute to open-source projects in 2024.</p>
+<p align="left">🧐  Learning different things, but currently focusing on Data Science and Machine Learning<br></p>
 
 ###
 
