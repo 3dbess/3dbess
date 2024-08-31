@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">🎓 Currently in my fourth year taking up computer science at the University of San Carlos.<br>🎮 Book-lover and gamer in my free time.<br>🔍 Always looking for the next creative project.</p>
+<p align="left">🎓 Currently in my fourth year taking up computer science at the University of San Carlos.<br>🎮 Book-lover and gamer in my free time.<br></p>
 
 ###
 
